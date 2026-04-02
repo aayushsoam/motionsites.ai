@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/tLkHO1qZoaaQOUeVWo8hEBeGQfySP02EPS02BmnNFyXys.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://stream.mux.com/tLkHO1qZoaaQOUeVWo8hEBeGQfySP02EPS02BmnNFyXys.m3u8)
-
----
-
+![Video Preview 0](../assets/videos/CodeNest_Coding_Platform_0.mp4)
 ## 📋 Prompt
 
 ```text

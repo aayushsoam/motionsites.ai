@@ -8,15 +8,9 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_031824_0c85e1e9-fe2b-4d52-8cde-25b0c2b5e8a2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/NOVA_Space_Systems_1.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_031824_0c85e1e9-fe2b-4d52-8cde-25b0c2b5e8a2.mp4)
-
----
-
+![Video Preview 1](../assets/videos/NOVA_Space_Systems_2.mp4)
 ## 📋 Prompt
 
 ```text

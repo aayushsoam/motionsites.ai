@@ -8,15 +8,17 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_045634_e1c98c76-1265-4f5c-882a-4276f2080894.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Orbis_NFT_0.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260331_045634_e1c98c76-1265-4f5c-882a-4276f2080894.mp4)
+![Video Preview 1](../assets/videos/Orbis_NFT_1.mp4)
 
----
+![Video Preview 2](../assets/videos/Orbis_NFT_2.mp4)
 
+![Video Preview 3](../assets/videos/Orbis_NFT_3.mp4)
+
+![Video Preview 4](../assets/videos/Orbis_NFT_4.mp4)
+
+![Video Preview 5](../assets/videos/Orbis_NFT_5.mp4)
 ## 📋 Prompt
 
 ```text

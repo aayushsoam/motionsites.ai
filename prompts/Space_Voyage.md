@@ -8,15 +8,9 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_115329_5e00c9c5-4d69-49b7-94c3-9c31c60bb644.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Space_Voyage_0.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_115329_5e00c9c5-4d69-49b7-94c3-9c31c60bb644.mp4)
-
----
-
+![Video Preview 1](../assets/videos/Space_Voyage_1.mp4)
 ## 📋 Prompt
 
 ```text

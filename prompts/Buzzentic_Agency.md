@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_074215_04640ca7-042c-45d6-bb56-58b1e8a42489.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260306_074215_04640ca7-042c-45d6-bb56-58b1e8a42489.mp4)
-
----
-
+![Video Preview 0](../assets/videos/Buzzentic_Agency_0.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260221_085953_8463b46e-ba85-4bb7-912a-1feaf346e970.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260221_085953_8463b46e-ba85-4bb7-912a-1feaf346e970.mp4)
-
----
-
+![Video Preview 0](../assets/videos/Weblex_Dark_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

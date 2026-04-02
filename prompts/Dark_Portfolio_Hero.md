@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/Gs3wZfrtz6ZfqZqQ02c02Z7lugV00FGZvRpcqFTel66r3g.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://stream.mux.com/Gs3wZfrtz6ZfqZqQ02c02Z7lugV00FGZvRpcqFTel66r3g.m3u8)
-
----
-
+![Video Preview 0](../assets/videos/Dark_Portfolio_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/4IMYGcL01xjs7ek5ANO17JC4VQVUTsojZlnw4fXzwSxc.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://stream.mux.com/4IMYGcL01xjs7ek5ANO17JC4VQVUTsojZlnw4fXzwSxc.m3u8)
-
----
-
+![Video Preview 0](../assets/videos/Datacore_SaaS_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

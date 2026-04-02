@@ -8,15 +8,9 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260322_013248_a74099a8-be2b-4164-a823-eddd5e149fa1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/AKOR_Security_0.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260322_013248_a74099a8-be2b-4164-a823-eddd5e149fa1.mp4)
-
----
-
+![Video Preview 1](../assets/videos/AKOR_Security_5.mp4)
 ## 📋 Prompt
 
 ```text

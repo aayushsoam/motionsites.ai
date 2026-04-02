@@ -8,15 +8,9 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/T6oQJQ02cQ6N01TR6iHwZkKFkbepS34dkkIc9iukgy400g.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Digitwist_AI_Builder_0.mp4)
 
-[Direct Video Link](https://stream.mux.com/T6oQJQ02cQ6N01TR6iHwZkKFkbepS34dkkIc9iukgy400g.m3u8)
-
----
-
+![Video Preview 1](../assets/videos/Digitwist_AI_Builder_1.mp4)
 ## 📋 Prompt
 
 ```text

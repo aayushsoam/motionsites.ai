@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/hUT6X11m1Vkw1QMxPOLgI761x2cfpi9bHFbi5cNg4014.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://stream.mux.com/hUT6X11m1Vkw1QMxPOLgI761x2cfpi9bHFbi5cNg4014.m3u8)
-
----
-
+![Video Preview 0](../assets/videos/ClearInvoice_SaaS_Hero_0.mp4)
 ## 📋 Prompt
 
 ```text

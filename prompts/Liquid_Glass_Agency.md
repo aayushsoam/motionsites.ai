@@ -8,15 +8,13 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260307_083826_e938b29f-a43a-41ec-a153-3d4730578ab8.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Liquid_Glass_Agency_0.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260307_083826_e938b29f-a43a-41ec-a153-3d4730578ab8.mp4)
+![Video Preview 1](../assets/videos/Liquid_Glass_Agency_1.mp4)
 
----
+![Video Preview 2](../assets/videos/Liquid_Glass_Agency_2.mp4)
 
+![Video Preview 3](../assets/videos/Liquid_Glass_Agency_3.mp4)
 ## 📋 Prompt
 
 ```text

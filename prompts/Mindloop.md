@@ -8,15 +8,15 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Mindloop_0.mp4)
 
-[Direct Video Link](https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260324_151826_c7218672-6e92-402c-9e45-f1e0f454bdc4.mp4)
+![Video Preview 1](../assets/videos/Mindloop_Landing_0.mp4)
 
----
+![Video Preview 2](../assets/videos/Mindloop_Landing_1.mp4)
 
+![Video Preview 3](../assets/videos/Mindloop_Landing_2.mp4)
+
+![Video Preview 4](../assets/videos/Mindloop_Landing_3.mp4)
 ## 📋 Prompt
 
 ```text

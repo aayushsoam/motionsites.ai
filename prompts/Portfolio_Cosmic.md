@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8)
-
----
-
+![Video Preview 0](../assets/videos/Portfolio_Cosmic_0.mp4)
 ## 📋 Prompt
 
 ```text

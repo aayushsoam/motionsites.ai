@@ -8,15 +8,15 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video Preview 0](../assets/videos/Investor_Deck_0.mp4)
 
-[Direct Video Link](https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8)
+![Video Preview 1](../assets/videos/Investor_Deck_1.mp4)
 
----
+![Video Preview 2](../assets/videos/Investor_Deck_2.mp4)
 
+![Video Preview 3](../assets/videos/Investor_Deck_3.mp4)
+
+![Video Preview 4](../assets/videos/Investor_Deck_4.mp4)
 ## 📋 Prompt
 
 ```text

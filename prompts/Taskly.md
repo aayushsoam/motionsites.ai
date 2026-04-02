@@ -8,15 +8,7 @@
 
 ## 🎬 Video Preview
 
-<video width="100%" controls autoplay muted loop>
-  <source src="https://future.co/images/homepage/glassy-orb/orb-purple.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[Direct Video Link](https://future.co/images/homepage/glassy-orb/orb-purple.webm)
-
----
-
+![Video Preview 0](../assets/videos/Taskly_0.webm)
 ## 📋 Prompt
 
 ```text
