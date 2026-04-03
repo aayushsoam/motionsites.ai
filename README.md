@@ -1,6 +1,6 @@
 # MotionSites.ai Prompt Library 🚀
 
-Welcome to the **MotionSites.ai Prompt Library**, a curated collection of **65 high-quality AI web design prompts**. This repository contains production-ready prompts for generating stunning landing pages, hero sections, and SaaS interfaces using modern AI coding tools like Bolts and GPT-Engineer.
+Welcome to the **MotionSites.ai Prompt Library**, a curated collection of **All 65 high-quality AI web design prompts**. This repository contains production-ready prompts for generating stunning landing pages, hero sections, and SaaS interfaces using modern AI coding tools like Bolts and GPT-Engineer.
 
 ---
 
