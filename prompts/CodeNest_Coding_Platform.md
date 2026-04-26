@@ -2,7 +2,7 @@
 
 > **Category:** Landing Page  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

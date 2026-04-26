@@ -2,7 +2,7 @@
 
 > **Category:** Automotive  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

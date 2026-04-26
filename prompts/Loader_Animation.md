@@ -2,7 +2,7 @@
 
 > **Category:** Component  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

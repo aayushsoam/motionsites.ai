@@ -2,7 +2,7 @@
 
 > **Category:** Agency  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

@@ -7,7 +7,7 @@ const path = require('path');
 const args = process.argv.slice(2);
 const command = args[0];
 
-const PREMIUM_DIR = path.join(__dirname, '../prompts premium');
+const Pro_DIR = path.join(__dirname, '../prompts Pro');
 const FREE_DIR = path.join(__dirname, '../prompts');
 
 function listPrompts(dir, label) {
@@ -15,7 +15,7 @@ function listPrompts(dir, label) {
     console.log(`[!] ${label} directory not found.`);
     return;
   }
-  
+
   const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
   console.log(`\n=== ${label} (${files.length}) ===`);
   files.forEach((f, i) => {
@@ -28,7 +28,7 @@ function showHelp() {
 🚀 TemplatePrompts CLI
 ==========================
 Usage:
-  templateprompts list       - List all available premium and free prompts
+  templateprompts list       - List all available Pro and free prompts
   templateprompts help       - Show this help menu
 
 (More features coming soon, like copying a prompt directly to clipboard!)
@@ -37,7 +37,7 @@ Usage:
 
 switch (command) {
   case 'list':
-    listPrompts(PREMIUM_DIR, 'Premium Prompts');
+    listPrompts(Pro_DIR, 'Pro Prompts');
     listPrompts(FREE_DIR, 'Free Prompts');
     break;
   case 'help':

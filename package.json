@@ -1,7 +1,7 @@
 {
   "name": "templateprompts",
   "version": "1.0.0",
-  "description": "MotionSites AI Premium Prompts Library CLI",
+  "description": "MotionSites AI Pro Prompts Library CLI",
   "main": "index.js",
   "bin": {
     "templateprompts": "bin/index.js"

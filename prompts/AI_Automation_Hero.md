@@ -2,7 +2,7 @@
 
 > **Category:** AI / SaaS  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

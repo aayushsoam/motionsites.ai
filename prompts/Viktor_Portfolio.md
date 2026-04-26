@@ -2,7 +2,7 @@
 
 > **Category:** Portfolio  
 > **Type:** landing-page  
-> **License:** Premium
+> **License:** free
 
 ---
 

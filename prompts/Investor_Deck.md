@@ -2,7 +2,7 @@
 
 > **Category:** Investor Presentations  
 > **Type:** landing-page  
-> **License:** Premium
+> **License:** free
 
 ---
 

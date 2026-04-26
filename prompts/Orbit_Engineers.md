@@ -2,7 +2,7 @@
 
 > **Category:** Agency  
 > **Type:** landing-page  
-> **License:** Premium
+> **License:** free
 
 ---
 

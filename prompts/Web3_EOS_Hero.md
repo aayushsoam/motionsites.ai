@@ -2,7 +2,7 @@
 
 > **Category:** Web3  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

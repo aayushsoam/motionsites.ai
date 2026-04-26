@@ -2,7 +2,7 @@
 
 > **Category:** Portfolio  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 

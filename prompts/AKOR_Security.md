@@ -2,7 +2,7 @@
 
 > **Category:** Landing Page  
 > **Type:** landing-page  
-> **License:** Premium
+> **License:** free
 
 ---
 

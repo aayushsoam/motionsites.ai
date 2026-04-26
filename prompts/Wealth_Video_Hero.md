@@ -2,7 +2,7 @@
 
 > **Category:** Fintech  
 > **Type:** hero  
-> **License:** Premium
+> **License:** free
 
 ---
 
