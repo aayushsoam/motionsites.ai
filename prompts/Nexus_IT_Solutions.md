@@ -2,7 +2,7 @@
 
 > **Category:** Hero Section  
 > **Type:** hero  
-> **License:** Premium
+
 
 ---
 
