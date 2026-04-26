@@ -145,7 +145,7 @@ Below is a categorized list of all designs included in this library. Click on an
 | **Nexar** | Hero Section | [View Prompt](Pro%20prompts/nexar-hero.md) |
 | **Nexus IT Solutions** | Hero Section | [View Prompt](Pro%20prompts/nexus-hero.md) |
 | **Nickel Payments** | SaaS | [View Prompt](Pro%20prompts/nickel-hero.md) |
-| **Nike Pro Landing** | Landing Page | [View Prompt](Pro%20prompts/nike-Pro-landing.md) |
+| **Nike Pro Landing** | Landing Page | [View Prompt](Pro%20prompts/nike-premium-landing.md) |
 | **Orbit Engineers** | Agency | [View Prompt](Pro%20prompts/orbit-engineers.md) |
 | **Orbit Web3** | Web3 | [View Prompt](Pro%20prompts/orbit-web3-hero.md) |
 | **Planet Orbit** | SaaS | [View Prompt](Pro%20prompts/planet-orbit-hero.md) |
